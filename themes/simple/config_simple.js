@@ -3,7 +3,7 @@ const CONFIG_SIMPLE = {
   LOGO_IMG: '/Logo.webp',
   TOP_BAR: true, // 显示顶栏
   TOP_BAR_CONTENT: process.env.NEXT_PUBLIC_THEME_SIMPLE_TOP_TIPS || '',
-  LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>A random person<br/>/In this chaotic world<br/>/</div>',
+  LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>A random person<br/>In this chaotic world<br/></div>',
 
   AUTHOR_LINK: process.env.NEXT_PUBLIC_AUTHOR_LINK || '#',
 
